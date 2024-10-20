@@ -11,6 +11,7 @@ I'm passionate about turning raw data into actionable insights and love solving 
 + Python for data manipulation and exploratory analysis
 
 📈 What excites me?
+
 Exploring data patterns, optimizing workflows, designing dashboards, and collaborating with cross-functional teams to uncover insights that impact decision-making.
 
 📫 Let's connect:
