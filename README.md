@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi I'm Jiya Dariyani  👋
 
-<!--
-**Jiyajiya21/Jiyajiya21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst | SQL Enthusiast | Tableau & Python Learner
 
-Here are some ideas to get you started:
+I'm passionate about turning raw data into actionable insights and love solving complex business problems through data analysis. With hands-on experience in SQL, Python, Tableau, and Excel, I continuously aim to improve my analytical skills and create meaningful visualizations to tell compelling data stories.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 What I bring to the table:
+
+- Expertise in SQL for data querying and analysis
+* Data storytelling through Tableau dashboards
++ Python for data manipulation and exploratory analysis
+
+📈 What excites me?
+Exploring data patterns, optimizing workflows, designing dashboards, and collaborating with cross-functional teams to uncover insights that impact decision-making.
+
+📫 Let's connect:
+
+[LinkedIn]([url](https://www.linkedin.com/in/jiya-dariyani/))
+[Tableau]([url](https://public.tableau.com/app/profile/jiya.dariyani/vizzes))
+dariyanijiya14gmail.com
+
+
+Check out my projects and feel free to connect with me if you have any feedback or want to discuss data!
+
+
