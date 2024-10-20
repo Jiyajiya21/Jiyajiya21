@@ -1,6 +1,6 @@
 ## Hi I'm Jiya Dariyani  👋
 
-### Data Enthusiast | SQL | Tableau | Python | Advanced Excel
+#### Data Enthusiast | SQL | Tableau | Python | Advanced Excel
 
 I'm passionate about turning raw data into actionable insights and love solving complex business problems through data analysis. With hands-on experience in SQL, Python, Tableau, and Excel, I continuously aim to improve my analytical skills and create meaningful visualizations to tell compelling data stories.
 
@@ -14,7 +14,7 @@ I'm passionate about turning raw data into actionable insights and love solving 
 
 Exploring data patterns, optimizing workflows, designing dashboards, and collaborating with cross-functional teams to uncover insights that impact decision-making.
 
-📫 Let's connect:
+### 📫 Let's connect:
 
 - [LinkedIn](https://www.linkedin.com/in/jiya-dariyani/)
 - [Tableau](https://public.tableau.com/app/profile/jiya.dariyani/vizzes)
