@@ -14,7 +14,7 @@ I'm passionate about turning raw data into actionable insights and love solving 
 
 Exploring data patterns, optimizing workflows, designing dashboards, and collaborating with cross-functional teams to uncover insights that impact decision-making.
 
-### 📫 Let's connect:
+## 📫 Let's connect:
 
 - [LinkedIn](https://www.linkedin.com/in/jiya-dariyani/)
 - [Tableau](https://public.tableau.com/app/profile/jiya.dariyani/vizzes)
