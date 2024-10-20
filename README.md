@@ -4,13 +4,13 @@
 
 I'm passionate about turning raw data into actionable insights and love solving complex business problems through data analysis. With hands-on experience in SQL, Python, Tableau, and Excel, I continuously aim to improve my analytical skills and create meaningful visualizations to tell compelling data stories.
 
-💼 What I bring to the table:
+## 💼 What I bring to the table:
 
 - Expertise in SQL for data querying and analysis
 * Data storytelling through Tableau dashboards
 + Python for data manipulation and exploratory analysis
 
-📈 What excites me?
+## 📈 What excites me?
 
 Exploring data patterns, optimizing workflows, designing dashboards, and collaborating with cross-functional teams to uncover insights that impact decision-making.
 
