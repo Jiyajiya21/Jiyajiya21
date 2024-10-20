@@ -1,4 +1,4 @@
-## Hi I'm Jiya Dariyani  👋
+# Hi I'm Jiya Dariyani  👋
 
 #### Data Enthusiast | SQL | Tableau | Python | Advanced Excel
 
