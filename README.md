@@ -16,8 +16,8 @@ Exploring data patterns, optimizing workflows, designing dashboards, and collabo
 
 📫 Let's connect:
 
-- [LinkedIn](https://www.linkedin.com/in/jiya-dariyani/))
-- [Tableau] (https://public.tableau.com/app/profile/jiya.dariyani/vizzes))
+- [LinkedIn](https://www.linkedin.com/in/jiya-dariyani/)
+- [Tableau](https://public.tableau.com/app/profile/jiya.dariyani/vizzes)
 - dariyanijiya14gmail.com
 
 
